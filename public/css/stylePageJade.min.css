@@ -1,0 +1,22 @@
+body {
+  background-color: rgba(128, 128, 128, 0.18); }
+  body nav {
+    margin-top: 40px; }
+    body nav a {
+      padding: 20px; }
+  body .cargando {
+    margin-top: 400px; }
+  body .full-height .data {
+    background-color: white;
+    height: auto; }
+  body img {
+    margin-top: 50px;
+    width: 20%; }
+  body .textoFull .data_2 {
+    height: auto; }
+    body .textoFull .data_2 .textMain {
+      margin-top: 50px; }
+  body .textoFull .world {
+    width: 100px; }
+
+/*# sourceMappingURL=stylePageJade.min.css.map */
